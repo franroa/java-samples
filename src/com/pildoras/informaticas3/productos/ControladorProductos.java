@@ -28,7 +28,7 @@ public class ControladorProductos extends HttpServlet {
 	
 	@Override
 	public void init() throws ServletException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method 
 		super.init();
 		
 		try{
